@@ -1,0 +1,12 @@
+E:\Archivos\1U-TecVII-GA1\1U-TecVII-GA1\bin\Debug\1U-TecVII-GA1.exe.config
+E:\Archivos\1U-TecVII-GA1\1U-TecVII-GA1\bin\Debug\1U-TecVII-GA1.exe
+E:\Archivos\1U-TecVII-GA1\1U-TecVII-GA1\bin\Debug\1U-TecVII-GA1.pdb
+E:\Archivos\1U-TecVII-GA1\1U-TecVII-GA1\bin\Debug\1U-TecVII-GA1.xml
+E:\Archivos\1U-TecVII-GA1\1U-TecVII-GA1\obj\Debug\1U-TecVII-GA1.vbprojResolveAssemblyReference.cache
+E:\Archivos\1U-TecVII-GA1\1U-TecVII-GA1\obj\Debug\_1U_TecVII_GA1.Form1.resources
+E:\Archivos\1U-TecVII-GA1\1U-TecVII-GA1\obj\Debug\_1U_TecVII_GA1.Form2.resources
+E:\Archivos\1U-TecVII-GA1\1U-TecVII-GA1\obj\Debug\_1U_TecVII_GA1.Resources.resources
+E:\Archivos\1U-TecVII-GA1\1U-TecVII-GA1\obj\Debug\1U-TecVII-GA1.vbproj.GenerateResource.Cache
+E:\Archivos\1U-TecVII-GA1\1U-TecVII-GA1\obj\Debug\1U-TecVII-GA1.exe
+E:\Archivos\1U-TecVII-GA1\1U-TecVII-GA1\obj\Debug\1U-TecVII-GA1.xml
+E:\Archivos\1U-TecVII-GA1\1U-TecVII-GA1\obj\Debug\1U-TecVII-GA1.pdb
